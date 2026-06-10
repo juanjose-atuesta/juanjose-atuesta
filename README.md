@@ -102,7 +102,7 @@ Programas de visión por computadora enfocados en **detección y reconocimiento 
 
 **Perfil personal · proyectos web e IA**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjose-atuesta&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages juanjose-atuesta" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjose-atuesta&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages juanjose-atuesta" />
 </p>
 
 **Perfil universitario · [`Atuesta117`](https://github.com/Atuesta117) · trabajos y proyectos académicos**
@@ -115,7 +115,7 @@ Programas de visión por computadora enfocados en **detección y reconocimiento 
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjose-atuesta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanjose-atuesta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
