@@ -43,7 +43,7 @@ Mis proyectos y trabajos los reúno en mi página de presentación:
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanjose-atuesta&theme=tokyo-night&hide_border=true" alt="Actividad en GitHub" />
+  <img src="https://ghchart.rshah.org/6366F1/juanjose-atuesta" alt="Calendario de contribuciones en GitHub" />
 </p>
 
 ---
